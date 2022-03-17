@@ -1,0 +1,2 @@
+# faida-app
+Yakwetu sote
